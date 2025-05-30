@@ -2,6 +2,7 @@
 - 👀 I’m interested in exploatory data visualization and analysis
 - 🌱 I’m currently learning Power Bi
 - 💞️ I’m looking to collaborate on visualization and analysis of data
+- I have certifications from Google in data analytics as well as an advanced data analytics certification through CoursEra.
 - 📫 How to reach me hamremy@gmail.com
 
 <!---
